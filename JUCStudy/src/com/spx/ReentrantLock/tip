@@ -1,0 +1,2 @@
+
+ReentrantLock  和  synchronized都是可重入锁
